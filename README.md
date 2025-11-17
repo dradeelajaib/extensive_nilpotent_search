@@ -78,13 +78,6 @@ Plus utility functions:
 
 ## Physical Interpretation
 
-### c-value Classification
-Based on your representation-dependent quantum mechanics framework:
-
-- **c = 1**: Electron-like (weak coupling)
-- **c = 2**: Neutrino-like (medium coupling)
-- **c = 4**: Quark-like (strong coupling) - most common
-- **c = 8**: Heavy quark states
 
 ### Generation Structure
 - **Gen 1** (Rank-1, mixed): 16 unpaired states
