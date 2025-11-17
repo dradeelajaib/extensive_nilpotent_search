@@ -52,7 +52,6 @@ python find_symmetric_matrices.py
 |-------------|-------------|--------------|---------|---------|----------|
 | Antisymmetric | 6 | 15,625 | < 1 sec | 49 | 0, 4 |
 | Symmetric | 10 | 9.7M | 5-10 min | 433 | 0, 4, 8 |
-| Asymmetric (full) | 16 | 152B | 5-10 days | ~500+ | 0,1,2,4,8 |
 
 
 ---
